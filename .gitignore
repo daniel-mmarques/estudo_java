@@ -2,4 +2,5 @@
 *.iml
 /target/
 /.classpath
-/.project/
+/.settings/
+/.project
